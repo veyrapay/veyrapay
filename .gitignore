@@ -39,3 +39,13 @@ ga4.json
 .ops-cache.json
 *.log
 trongpasswordhere*
+.env
+.env.*
+node_modules
+logs
+db
+data
+ga4.json
+.ops-cache.json
+*.log
+trongpasswordhere*
