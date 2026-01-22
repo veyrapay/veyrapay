@@ -10,3 +10,12 @@ yarn-error.log
 *.log
 ga4.json
 ga4.json
+.env
+.env.*
+node_modules
+logs
+db
+data
+ga4.json
+.ops-cache.json
+*.log
