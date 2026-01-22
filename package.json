@@ -1,0 +1,20 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "live-feed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google-analytics/data": "^5.2.1",
+    "dotenv": "^17.2.3",
+    "google-auth-library": "^10.5.0",
+    "imap-simple": "^5.1.0",
+    "mailparser": "^3.9.1"
+  }
+}

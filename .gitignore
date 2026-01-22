@@ -1,0 +1,12 @@
+.env
+.env.*
+node_modules
+dist
+build
+npm-debug.log
+yarn-error.log
+.vscode-server
+.pm2
+*.log
+ga4.json
+ga4.json
